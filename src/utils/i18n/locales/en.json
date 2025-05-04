@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "main": "Main",
+    "favorites": "Favorites",
+    "about": "About"
+  },
+  "genres": {
+    "action": "Action",
+    "adventure": "Adventure",
+    "comedy": "Comedy",
+    "drama": "Drama",
+    "horror": "Horror",
+    "fantasy": "Fantasy",
+    "sciFi": "Sci-Fi"
+  },
+  "books": {
+    "author": "Author",
+    "published": "Published",
+    "pages": "Pages",
+    "unknown": "Unknown",
+    "no_description": "No description available",
+    "more": "Read more",
+    "no_results": "No books found"
+  },
+  "favorites": {
+    "title": "Favorite Books",
+    "empty": "You have no favorite books yet.",
+    "description": "Here are the books you've marked as favorites."
+  },
+  "search": {
+    "placeholder": "Search books..."
+  },
+  "footer": {
+    "rights": "© 2025 Readify. All rights reserved."
+  },
+  "about": {
+    "greeting": "Hello 👋",
+    "name": "My name is {{name}}, I am from {{city}}. I am a beginner developer, studying at Satbayev University in the field of \"Mechanics\".",
+    "passion": "I am passionate about web development, especially frontend. I have completed several specialized courses — from Python to Most Singularity Frontend at Jusan Bank. I work with tools such as {{techStack}}.",
+    "experience": "I have commercial experience — I work as a frontend developer at a startup, where I create interfaces, integrate with APIs, and optimize user experience. At the same time, I develop pet projects, participate in team developments, constantly improve my skills, and love solving non-standard problems.",
+    "contacts": "Contacts",
+    "skills": "Skills"
+  }
+}
