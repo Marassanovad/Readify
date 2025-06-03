@@ -1,7 +1,3 @@
-Вот пример README для вашего проекта **Readify**:
-
----
-
 # Readify
 
 **Readify** is a modern web application designed to help users search, discover, and manage books with an intuitive interface. Built using React, TypeScript, TailwindCSS, and Vite, it integrates with the Google Books API to provide users with an easy way to search for books and store their favorites.
